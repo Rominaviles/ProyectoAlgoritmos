@@ -1,0 +1,36 @@
+D:\Salon de Eventos\Salon de Eventos\bin\Debug\Proyecto2023.exe.config
+D:\Salon de Eventos\Salon de Eventos\bin\Debug\Proyecto2023.exe
+D:\Salon de Eventos\Salon de Eventos\bin\Debug\Proyecto2023.pdb
+D:\Salon de Eventos\Salon de Eventos\obj\Debug\Proyecto2023.csprojResolveAssemblyReference.cache
+D:\Salon de Eventos\Salon de Eventos\obj\Debug\Proyecto2023.exe
+D:\Salon de Eventos\Salon de Eventos\obj\Debug\Proyecto2023.pdb
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Salon de Eventos\Salon de Eventos\obj\Debug\Proyecto2023.csprojResolveAssemblyReference.cache
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Salon de Eventos\Salon de Eventos\bin\Debug\Proyecto2023.exe.config
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Salon de Eventos\Salon de Eventos\bin\Debug\Proyecto2023.exe
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Salon de Eventos\Salon de Eventos\bin\Debug\Proyecto2023.pdb
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Salon de Eventos\Salon de Eventos\obj\Debug\Proyecto2023.exe
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Salon de Eventos\Salon de Eventos\obj\Debug\Proyecto2023.pdb
+D:\Salon de Eventos\obj\Debug\Proyecto2023.csprojResolveAssemblyReference.cache
+D:\Salon de Eventos\obj\Debug\Proyecto2023.exe
+D:\Salon de Eventos\bin\Debug\Proyecto2023.exe.config
+D:\Salon de Eventos\bin\Debug\Proyecto2023.exe
+D:\Salon de Eventos\bin\Debug\Proyecto2023.pdb
+D:\Salon de Eventos\obj\Debug\Proyecto2023.pdb
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Saloneventosalgoritmos\Salon de Eventos\bin\Debug\Proyecto2023.exe.config
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Saloneventosalgoritmos\Salon de Eventos\bin\Debug\Proyecto2023.exe
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Saloneventosalgoritmos\Salon de Eventos\bin\Debug\Proyecto2023.pdb
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Saloneventosalgoritmos\Salon de Eventos\obj\Debug\Proyecto2023.csprojResolveAssemblyReference.cache
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Saloneventosalgoritmos\Salon de Eventos\obj\Debug\Proyecto2023.exe
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\Saloneventosalgoritmos\Salon de Eventos\obj\Debug\Proyecto2023.pdb
+C:\Users\lourd\Downloads\SalonEventos\Salon de Eventos\bin\Debug\Proyecto2023.exe.config
+C:\Users\lourd\Downloads\SalonEventos\Salon de Eventos\bin\Debug\Proyecto2023.exe
+C:\Users\lourd\Downloads\SalonEventos\Salon de Eventos\bin\Debug\Proyecto2023.pdb
+C:\Users\lourd\Downloads\SalonEventos\Salon de Eventos\obj\Debug\Proyecto2023.csprojResolveAssemblyReference.cache
+C:\Users\lourd\Downloads\SalonEventos\Salon de Eventos\obj\Debug\Proyecto2023.exe
+C:\Users\lourd\Downloads\SalonEventos\Salon de Eventos\obj\Debug\Proyecto2023.pdb
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\SalonEventos\Salon de Eventos\obj\Debug\Proyecto2023.csprojResolveAssemblyReference.cache
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\SalonEventos\Salon de Eventos\obj\Debug\Proyecto2023.exe
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\SalonEventos\Salon de Eventos\obj\Debug\Proyecto2023.pdb
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\SalonEventos\Salon de Eventos\bin\Debug\Proyecto2023.exe.config
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\SalonEventos\Salon de Eventos\bin\Debug\Proyecto2023.exe
+C:\Users\romin\OneDrive\Documentos\SharpDevelop Projects\SalonEventos\Salon de Eventos\bin\Debug\Proyecto2023.pdb
